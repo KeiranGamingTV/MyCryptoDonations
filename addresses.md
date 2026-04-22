@@ -1,0 +1,16 @@
+# BTC:
+bc1q622tkcfmd5n6y4feull5eruwznqf85cnh089zx
+
+
+# ETH:
+0x48ff8B662d34778c55270ec38861064d229413c2
+
+
+# SOL:
+HT1wi9WQZ366Z1cA7hFtHS6gvcqUbFDaJHUeqfodjNNm
+
+
+# XMR (Monero):
+HT1wi9WQZ366Z1cA7hFtHS6gvcqUbFDaJHUeqfodjNNm
+
+
