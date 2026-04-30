@@ -22,7 +22,7 @@ Scan it with your crypto wallet:
 # XMR (Monero):
 Scan it with your crypto wallet:
 
-![XMR QR code](qr-codes/xmr.PNG)
+![XMR QR code](qr-codes/xmr.png)
 
 # BNB:
 Address:  `0xB88c0dfAd5981bfa5e613496089EB51A94000F9C`
